@@ -38,7 +38,7 @@ const Navbar = ({
                 className="h-10 w-10 md:h-12 md:w-12 drop-shadow-lg"
                 referrerPolicy="no-referrer"
               />
-              <span>{lang === 'en' ? 'Shiv & Shwati' : 'शिव और श्वाति'}</span>
+              <span>{lang === 'en' ? 'Shiv & Swati' : 'शिव और श्वाति'}</span>
             </div>
             
             {/* Desktop Menu */}
