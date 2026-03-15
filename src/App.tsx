@@ -384,11 +384,11 @@ const Contact = ({ lang }: { lang: 'en' | 'hi' }) => {
                           </li>
                           <li>
                             <span className="font-bold">{lang === 'en' ? 'Specialty:' : 'विशेषता:'}</span> 
-                            {lang === 'en' ? " Groom's Guardian! 🏃‍♂️" : ' यह सुनिश्चित करना कि दूल्हा भाग न जाए! 🏃‍♂️'}
+                            {lang === 'en' ? " Making sure the groom doesn't run away! 🏃‍♂️" : ' यह सुनिश्चित करना कि दूल्हा भाग न जाए! 🏃‍♂️'}
                           </li>
                           <li>
                             <span className="font-bold">{lang === 'en' ? 'Status:' : 'स्थिति:'}</span> 
-                            {lang === 'en' ? ' Solution Expert.' : ' सेल्फी या समाधान के लिए हमेशा उपलब्ध।'}
+                            {lang === 'en' ? ' Always available for a selfie or a solution. ' : ' सेल्फी या समाधान के लिए हमेशा उपलब्ध।'}
                           </li>
                         </ul>
                       </motion.div>
